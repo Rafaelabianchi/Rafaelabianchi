@@ -5,7 +5,4 @@
 - 📫 faço curso de informatica e pintura em tela...
 - 😄 instagram: Rafaela_ferreirax_
 - ⚡ e sendo fiel a ficante...
-<!-
-Rafaelabianchi/Rafaelabianchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
